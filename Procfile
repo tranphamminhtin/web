@@ -1,0 +1,1 @@
+web: java -jar target/Project_shop_giay.jar
